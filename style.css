@@ -1,0 +1,11 @@
+* {
+	font-family: "arial";
+	font-weight: lighter;
+}
+.header__navbar--menu {
+    display: flex;
+	align-items: center;
+	justify-content: space-between;
+	background-color: cadetblue;
+	color: #fff;
+}
